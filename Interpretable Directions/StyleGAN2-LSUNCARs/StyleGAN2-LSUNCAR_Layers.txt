@@ -1,0 +1,10 @@
+StyleGAN2-LSUNCAR layers to modify for the interpretable directions.
+Note that ranges are inclusive. For example, W2-W4 means to change layers of 2,3, and 4.
+
+Rotation: W0-W7
+Zoom_in: W2-W3
+Type: W4-W4
+Classic: W4-W5
+Color: W10-W11
+Shiny: W9-W9
+Background_removal: W0-W7
