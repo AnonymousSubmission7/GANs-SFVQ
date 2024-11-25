@@ -1,0 +1,8 @@
+StyleGAN2-AFHQ layers to modify for the interpretable directions.
+Note that ranges are inclusive. For example, W2-W4 means to change layers of 2,3, and 4.
+
+Rotation: W2-W3
+Age: W0-W2
+Bicolor: W6-W7
+Body_color: W7-W7
+Eye_color: W12-W12
