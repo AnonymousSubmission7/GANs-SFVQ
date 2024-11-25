@@ -16,7 +16,7 @@ To use CUDA, you need GCC 7 or later (Linux) or Visual Studio (Windows) compiler
 This directory contains the demo to test and compare interpretable directions found by our proposed method, GANSpace, and LatentCLR methods in intermediate latent space (W) of pretrained StyleGAN2-FFHQ.
 
 **Contents of this directory:**
-- `comparison.pdf`: Comparison of our method over 20 random vectors with GANSpace and LatentCLR
+- `comparison.pdf`: Comparison of our method over 15 random vectors with GANSpace and LatentCLR
 - `demo.py`: Code to create "comparison.pdf" file. You only need to change the `num_random_samples` and `sigma_list` in the code.
 - `demo_one_direction.py`: Code to compare only one direction for one random sample. You only need to change the `direction_name` and `sigma_list` in the code.
 - `files.zip`: Required files to run the codes. 
