@@ -1,0 +1,16 @@
+StyleGAN2-FFHQ layers to modify for the interpretable directions.
+Note that ranges are inclusive. For example, W2-W4 means to change layers of 2,3, and 4.
+
+Rotation: W0-W2
+Age: W3-W7
+Gender: W4-W7
+Smile: W4-W4
+Eyeglass: W2-W2
+Hair_Color: W8-W8
+Race: W8-W9
+Makeup: W8-W8
+Hat: W0-W3
+Beard: W6-W6
+Bald: W3-W6
+Graduation_hat: W1-W6
+Asian_face: W4-W8
